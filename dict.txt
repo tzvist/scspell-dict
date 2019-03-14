@@ -78,6 +78,7 @@ associatedtype
 autoclosure
 decodable
 fileprivate
+inout
 objc
 rxswift
 subviews
@@ -269,6 +270,7 @@ slideshow
 smashbox
 smoothstep
 specularity
+sqrt
 stateful
 straus
 strauss
@@ -285,6 +287,7 @@ taggable
 taiwan
 talesnik
 taplytics
+tappable
 todo
 truthy
 tzvi
